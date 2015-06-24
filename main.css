@@ -131,8 +131,22 @@ section {
     background-attachment: fixed;
     background-position: -790% 50% !important;
     background-repeat: no-repeat;
-  }
+}
 
- #section-4 {
+#section-4 {
    background-image: url('https://unsplash.com/photos/SbcqUQ4iEcI/download')
+}
+
+#lin{
+  position: relative;
+  top: 10%;
+}
+
+#section-4 div {
+   width: 350px;
+   height: 150px;
+   background-color: rgba(44, 44, 44, 0.5);
+   text-align: center;
+   display: block;
+   margin: 30px auto;
  }
