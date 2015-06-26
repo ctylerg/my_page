@@ -56,18 +56,10 @@ section {
   background-attachment: fixed;
 }
 
-#section-1 {
-  /*background-image: url('https://unsplash.com/photos/5qlegaTwZpM/download');*/
-  background: linear-gradient(to bottom, maroon, grey);
-  /*background: radial-gradient(circle at top right, red, blue);*/
-
-}
  #section-2 {
-   /*background: linear-gradient(to bottom, grey, darkblue);*/
    background: linear-gradient(45deg, rgba(250, 250, 250, 0.5), rgba(0, 0, 0, 0.5)),
    url(https://download.unsplash.com/photo-1429042007245-890c9e2603af);
-     /*background-size: cover;
-     background-attachment: fixed;*/
+
  }
  .split {
    width: 50%;
@@ -119,7 +111,7 @@ section {
  }
 
 #OSP {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
@@ -132,7 +124,7 @@ section {
 }
 
 #Kindlies {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
@@ -140,12 +132,12 @@ section {
     background-image: url(images/Profile.png);
     background-size: cover;
     background-attachment: fixed;
-    background-position: -790% 50% !important;
+    background-position: -700% 50% !important;
     background-repeat: no-repeat;
 }
 
 #Squeaker {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
