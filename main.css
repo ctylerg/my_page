@@ -133,10 +133,10 @@ section {
 }
 
 #pieceThree {
-    background-image: url(images/Profile.png);
+    background-image: url(images/profileup.png);
     background-size: cover;
     background-attachment: fixed;
-    background-position: -700% 50% !important;
+    background-position: center;
     background-repeat: no-repeat;
 }
 
@@ -150,17 +150,38 @@ section {
    background-position-y: -90px;
 }
 
-#lin{
-  position: relative;
-  top: 10%;
+#contact {
+  text-align: center;
+  color: white;
 }
 
 #section-3 div {
-   width: 350px;
-   height: 150px;
+   width: 450px;
+   height: 160px;
    background-color: rgba(44, 44, 44, 0.5);
    text-align: center;
    display: block;
    margin: 30px auto;
    border: solid black 1px;
  }
+
+#mail {
+  top: 15%;
+  padding: 15px;
+}
+
+#lin{
+  position: relative;
+  top: 15%;
+  padding: 5px;
+
+}
+
+#github {
+  position: relative;
+  top: 15%;
+  margin: 0;
+  padding: 0 0 10px 0;
+  box-sizing: border-box;
+  height: 150px;
+}
