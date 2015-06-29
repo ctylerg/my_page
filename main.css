@@ -185,3 +185,10 @@ section {
   box-sizing: border-box;
   height: 150px;
 }
+
+.footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+
+}
