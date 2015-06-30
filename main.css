@@ -107,7 +107,7 @@ section {
  }
 
 #pieceOne {
-   background-image: url(images/right_ans.png);
+   background-image: url(images/correct_ans.png);
    background-size: cover;
    background-attachment: fixed;
    background-position: center;
@@ -133,7 +133,7 @@ section {
 }
 
 #pieceThree {
-    background-image: url(images/profileup.png);
+    background-image: url(images/profilegood.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
