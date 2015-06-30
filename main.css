@@ -144,6 +144,14 @@ section {
   color: blue;
   text-decoration: none;
 }
+.desc {
+  text-align: center;
+  color: darkgreen;
+}
+#oldie {
+  text-align: center;
+  color: white;
+}
 
 #section-3 {
    background-image: url('https://unsplash.com/photos/SbcqUQ4iEcI/download');
